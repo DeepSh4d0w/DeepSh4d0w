@@ -2,7 +2,7 @@
 
 Sejam bem-vindos ao meu pequeno perfil espero que logo aqui esteja cheio de projetos que possam empolgar tanto eu quando vocês.
 
-- 🔭 Atualmente estou trabalhando no [**Adventure_Assistant**](https://github.com/DeepSh4d0w/adventure_assistant) ainda esta em um estagio embrionário mas espero que isso mude logo.
+- 🔭 Atualmente estou trabalhando no [**Atlas**](https://github.com/DeepSh4d0w/atlas) ainda esta em um estagio embrionário mas espero que isso mude logo.
 
 - 🌱 Ando estudando mais sobre: Typescript, Node, Nest Js, Next Js, entre outras coisas mais secundarias.
 
